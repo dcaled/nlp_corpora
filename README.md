@@ -33,9 +33,20 @@
 - [SSEC](http://www.romanklinger.de/ssec/) - Paper [1](http://www.romanklinger.de/publications/Schuff-etal-2017.pdf), [2](https://dl.acm.org/citation.cfm?id=3003433)
 
 
+# Check-Worthiness
+
+- [CLEF2018-factchecking - Task 1](https://github.com/clef2018-factchecking/clef2018-factchecking)
+
 
 # Stance Detection
 
 # Factuality
 
+- FactBank - Paper [1](https://link.springer.com/article/10.1007/s10579-009-9089-9)
+- [MEANTIME](http://www.newsreader-project.eu/results/data/wikinews/)
+- [UW Event Factuality Dataset](https://bitbucket.org/kentonl/factuality-data) - Paper [1](http://kentonl.com/pub/lacz-emnlp.2015.pdf)
+- [Unified Factuality Corpus](https://github.com/gabrielStanovsky/unified-factuality) - Paper [1](https://gabrielstanovsky.github.io/assets/papers/acl17/paper.pdf)
+
+- [CLEF2018-factchecking - Task 2](https://github.com/clef2018-factchecking/clef2018-factchecking)
+Note: This task's goal is to determine whether a claim is likely to be true or false.
 
