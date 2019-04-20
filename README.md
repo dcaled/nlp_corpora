@@ -43,7 +43,7 @@
 # Factuality
 
 - FactBank - Paper [1](https://link.springer.com/article/10.1007/s10579-009-9089-9)
-- [MEANTIME](http://www.newsreader-project.eu/results/data/wikinews/)
+- [MEANTIME](http://www.newsreader-project.eu/results/data/wikinews/) - Paper [1](http://www.lrec-conf.org/proceedings/lrec2016/pdf/488_Paper.pdf)
 - [UW Event Factuality Dataset](https://bitbucket.org/kentonl/factuality-data) - Paper [1](http://kentonl.com/pub/lacz-emnlp.2015.pdf)
 - [Unified Factuality Corpus](https://github.com/gabrielStanovsky/unified-factuality) - Paper [1](https://gabrielstanovsky.github.io/assets/papers/acl17/paper.pdf)
 
