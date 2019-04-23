@@ -18,21 +18,27 @@
 
 - Emotion-Stimulus
 
+- [Emotion Unified Corpora](https://github.com/sarnthil/unify-emotion-datasets) - Paper [1](https://aclweb.org/anthology/C18-1179)
+
 - [FB Valence and Arousal](http://wwbp.org/downloads/public_data/dataset-fb-valence-arousal-anon.csv) - Paper [1](https://wwbp.org/papers/va16wassa.pdf)
 
 - Grounded-Emotions
 
+- [Interactive FB Reactions](https://github.com/minimaxir/interactive-facebook-reactions) 
+
 - ISEAR
+- [Reviews](https://www.cs.uic.edu/~liub/FBS/sentiment-analysis.html#datasets)
 
-- Tales
-
-- TEC
 
 - [Sentiment and Emotion Lexicons](http://saifmohammad.com/WebPages/lexicons.html) 
 
 - [SSEC](http://www.romanklinger.de/ssec/) - Paper [1](http://www.romanklinger.de/publications/Schuff-etal-2017.pdf), [2](https://dl.acm.org/citation.cfm?id=3003433)
 
-- [Emotion Unified Corpora](https://github.com/sarnthil/unify-emotion-datasets) - Paper [1](https://aclweb.org/anthology/C18-1179)
+- Tales
+
+- TEC
+
+- [Twitter sentiment for 15 European languages](https://www.clarin.si/repository/xmlui/handle/11356/1054) - Paper [1](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0155036), [2](https://journals.plos.org/plosone/article?id=10.1371/journal.pone.0194317)
 
 # Check-Worthiness
 
