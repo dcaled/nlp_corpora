@@ -49,6 +49,7 @@
 
 - [Emergent](https://github.com/willferreira/mscproject) - Paper [1](https://www.aclweb.org/anthology/N16-1138)
 - [Emergent Crowd Annotataion](https://github.com/thanhan/fc-aaai18) - Paper [1](http://www.cs.utexas.edu/~atn/nguyen-aaai18.pdf)
+- [FakeNewsChallenge](https://github.com/FakeNewsChallenge/fnc-1)
 
 # Veracity Classification
 - [Snopes](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/impact/web-credibility-analysis/) - Paper [1](https://people.mpi-inf.mpg.de/~jstroetge/papers/2017-WWW-PopatEtAl-WhereTheTruthLies.pdf)
@@ -56,6 +57,15 @@
 - [Wikipedia Hoaxes and Fictious People](https://www.mpi-inf.mpg.de/departments/databases-and-information-systems/research/impact/web-credibility-analysis/) - Paper [1](https://people.mpi-inf.mpg.de/~jstroetge/papers/2017-WWW-PopatEtAl-WhereTheTruthLies.pdf) 
 
 - [Fake News](http://web.eecs.umich.edu/~mihalcea/downloads/fakeNewsDatasets.zip) - Paper [1](https://aclweb.org/anthology/C18-1287)
+
+- [Fake.Br Corpus](https://github.com/RafaelMonteiro95/FakeNilc) - Paper [1](http://conteudo.icmc.usp.br/pessoas/taspardo/PROPOR2018-MonteiroEtAl.pdf)
+
+- [FakeNewsCorpus](https://github.com/several27/FakeNewsCorpus)
+- [LIAR](https://www.cs.ucsb.edu/~william/data/liar_dataset.zip) - Paper [1](https://www.aclweb.org/anthology/P17-2067)
+
+# Verification
+
+- [FEVER](http://fever.ai/resources.html) - Paper [1](https://aclweb.org/anthology/N18-1074)
 
 # Factuality
 
